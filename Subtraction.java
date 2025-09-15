@@ -7,5 +7,6 @@ public class Subtraction {
         int x = 10;
         int y = 4;
         System.out.println("Subtraction: " + subtract(x, y));
+        System.out.println("Hrllo tejaswi");
     }
 }
